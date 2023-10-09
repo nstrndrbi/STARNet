@@ -1,0 +1,13 @@
+**__pycache__**
+**build**
+**egg-info**
+**dist**
+*.so
+*.sh
+*.pth
+*.pkl
+*.zip
+*.bin
+*.pyc
+.history
+
