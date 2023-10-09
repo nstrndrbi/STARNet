@@ -9,5 +9,6 @@
 *.zip
 *.bin
 *.pyc
+*.npy
 .history
 
