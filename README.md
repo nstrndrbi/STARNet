@@ -40,6 +40,6 @@
 ## Demo: STARNet in action
 Bellow we demonstrate a demo of STARNet integrated with <a href="https://airsim-fork.readthedocs.io/en/docs/#">AIRSim</a>, detecting OOD and IN-D data in online streaming.
 
-<div align="center">
-  <img src="docs/gif/demo.GIF" alt="Demo GIF" width="400>
-</div>
+<p align="center">
+    <img src="https://github.com/sinatayebati/STARNet/blob/main/docs/gif/demo.GIF" width="600" />
+</p>
