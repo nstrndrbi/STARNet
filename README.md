@@ -34,12 +34,12 @@
 **STARNet** introduces a deep network designed for anomaly/corruption detection in LiDAR-Camera data pipelines, with focus on implementation on edge AI devices such as micro drones. STARNet employs a gradient-free likelihood regret concept integrated with a variational autoencoder, making implementation on low-complexity edge hardware possible.
 
 <p align="center">
-  <img src="docs/figs/Picture1.png" align="center" width="70%">
+  <img src="docs/figs/Picture1.png" align="center" width="80%">
 </p>
 
 ## Demo: STARNet in action
 Bellow we demonstrate a demo of STARNet integrated with <a href="https://airsim-fork.readthedocs.io/en/docs/#">AIRSim</a>, detecting OOD and IN-D data in online streaming.
 
 <p align="center">
-    <img src="https://github.com/sinatayebati/STARNet/blob/main/docs/gif/demo.GIF" width="600" />
+    <img src="https://github.com/sinatayebati/STARNet/blob/main/docs/gif/demo.GIF" width="400" />
 </p>
